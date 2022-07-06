@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Datka",
+    "age": 21,
+    "educationType": "COURSE"
+  },
+  {
+    "name": "Nurziinat",
+    "age": 19,
+    "educationType": "UNIVERSITY"
+  },
+  {
+    "name": "Almazbek",
+    "age": 15,
+    "educationType": "SCHOOL"
+  }
+]
